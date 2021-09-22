@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "biandierdiputra",
+    "password": null,
+    "database": "topic3_development",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "biandierdiputra",
+    "password": null,
+    "database": "topic3_staging",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "biandierdiputra",
+    "password": null,
+    "database": "topic3_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
